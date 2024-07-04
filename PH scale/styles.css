@@ -1,0 +1,63 @@
+*{
+    background-color: bisque;
+}
+h1{
+    color: black;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px 5px 0px 20px;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin: 0px;
+    padding: 10px 5px 0px 20px;
+
+}
+.color1{
+    background-color:darkblue ;
+}
+.color2{
+    background-color:rgb(77, 77, 180) ;
+}
+.color3{
+    background-color:rgb(92, 92, 145) ;
+}
+.color4{
+    background-color:rgb(138, 138, 216) ;
+}
+.color5{
+    background-color:rgb(129, 129, 235) ;
+}
+.color6{
+    background-color:rgb(160, 160, 248) ;
+}
+.color7{
+    background-color:rgb(192, 192, 221) ;
+}
+.color8{
+    background-color:palevioletred ;
+}
+.color9{
+    background-color: rgb(62, 86, 14) ;
+}
+.color10{
+    background-color:rgb(97, 123, 45);
+}
+.color11{
+    background-color:rgb(110, 124, 82) ;
+}
+.color12{
+    background-color:rgb(132, 152, 99) ;
+}
+.color13{
+    background-color:rgb(196, 219, 149) ;
+}
+.color14{
+    background-color:rgb(210, 240, 154) ;
+}
+.color15{
+    background-color:rgb(213, 225, 189) ;
+}
+
+
