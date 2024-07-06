@@ -1,0 +1,85 @@
+*{
+    background-color: peachpuff;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    margin-left: 400px;
+}
+
+table{
+    border: black solid ;
+    margin-left: 450px;
+    border-collapse: collapse;
+}
+input{
+    background-color: blue;
+    border-radius: 8px;
+    width: 380px;
+    padding: 20px;
+    border: none;
+}
+
+.num{
+    background-color: black;
+    color: white;
+    padding: 25px;
+    border-radius: 5px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    font-weight: bold;
+    border: none;
+    width: 80px;
+}
+
+.plus{
+    background-color: orange;
+    color: white;
+    padding: 25px;
+    font-weight: bold;
+    font-size: x-large;
+    border-radius: 5px;
+    border: none;
+    width: 80px;
+}
+.mul{
+    background-color: lightskyblue;
+    color: white;
+    padding: 25px;
+    border-radius: 5px;
+    font-size: x-large;
+    font-weight: bold;
+    border: none;
+    width: 80px;
+}
+.minus{
+    background-color: purple;
+    color: white;
+    padding: 25px;
+    border-radius: 5px;
+    font-size: x-large;
+    font-weight: bold;
+    border: none;
+    width: 80px;
+}
+.equal{
+    background-color: red;
+    color: white;
+    padding: 25px;
+    border-radius: 5px;
+    font-size: x-large;
+    font-weight: bold;
+    border: none;
+    width: 80px;
+}
+.div{
+    background-color: green;
+    color: white;
+    padding: 25px;
+    border-radius: 5px;
+    font-size: x-large;
+    font-weight: bold;
+    border: none;
+    width: 80px;
+}
