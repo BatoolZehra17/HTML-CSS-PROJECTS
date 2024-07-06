@@ -1,0 +1,60 @@
+*{
+    background-color: bisque;
+}
+.black{
+    background-color: black;
+    
+}
+.white{
+    background-color: white;
+}
+h1{
+    text-align: center;
+    margin-top:100px ;
+}
+table{
+    width: 500px;
+}
+
+.chessboard{
+    border:  5px black solid;
+    border-collapse: collapse;
+    margin-top:  50px;
+    margin-left: 200px;
+
+}
+.chessboard td{
+    width: 50px;
+    height:50px ;
+}
+.black:hover{
+    background-image: url(./queen.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;    
+}
+.white:hover{
+    background-image: url(./horse.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    
+}
+.heading1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: bold;
+    margin-left: 700px;
+    margin-top: -390px;
+    font-size: x-large;
+    
+}
+.heading2{
+    background-color: black;
+    color: white;
+}
+.heading3{
+    font-size: smaller;
+  
+}
+
