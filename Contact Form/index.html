@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form </title>
+</head>
+<body style="background-image: url(./pic.jpg); background-repeat: no-repeat; background-size: cover">
+    <center>
+    <div style="background-color:aliceblue; width: 700px;">
+    <form>
+        <marquee  direction="right" scrollamount="10">
+        <h1 style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Contact Form</h1>
+        </marquee>
+        <p>Please fill in your form and we are sending your order in no time</p>
+        <hr color="black" size="4">
+        <br><br><br>
+        <!--Name-->
+        <label for="name">Your Name</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="text" name="first name" placeholder="First Name" maxlength="8" size="25" required>
+        <input type="text" name="last name" placeholder="Last Name" maxlength="8" size="25 required">
+        <br><br>
+        <!--Email-->
+        <label for="email">Your Email</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="email" name="email" placeholder="xyz@gmail.com" size="56" required>
+        <br><br>
+        <!--Phone no-->
+        <label for="phone">Phone#</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="password" name="number" placeholder="###" size="14" required>
+        <input type="password" name="number" placeholder="###" size="14" required>
+        <input type="password" name="number" placeholder="####" size="15" required>
+        <br><br>
+        <!--Message Subject-->
+        <label for="message subject">Message Subject*</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <select required style="padding-right: 310px">
+            <option value="fb">fb</option>
+            <option value="insta">insta</option>
+            <option value="web">web</option>
+            <option value="other" selected >other</option>
+        </select>
+        <br><br>
+        <!--Message-->
+        <label for="message">Message*</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <textarea name="" id="" cols="50" rows="4" required></textarea>
+        <br><br>
+        <!-- Verification Image-->
+        <img src="./pic.gif" alt="" width="300px" height="200px"><br>
+        <!-- Submit button-->
+        <button type="submit" style="padding: 10px 10px 10px 10px;">Submit</button><br><br>
+        
+    </form>
+</div>
+</center>
+</body>
+</html>
