@@ -1,0 +1,33 @@
+*{
+    background-color: rgb(177, 103, 148);
+}
+#color{
+    width: 200px;
+    border-radius: 5px;
+    margin-top: 200px;
+    margin-left: 300px;
+
+}
+img{
+    margin-right: 900px;
+    margin-left: 300px;
+    width: 200px;
+}
+.div{
+    margin-left: 600px;
+    margin-top: -350px;
+    font-family: lucida handwriting;
+    font-size: 30px;
+}
+h1:hover{
+    background-color: palevioletred;
+    border-radius: 10px;
+    
+}
+span{
+    margin-left: 250px;
+    font-size: 40px;
+    background-color: plum;
+    border-radius: 10px;
+    padding: 10px;
+}
