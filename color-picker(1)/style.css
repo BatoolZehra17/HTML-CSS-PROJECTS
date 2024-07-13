@@ -1,0 +1,27 @@
+body{
+    background-image: url(./pic3.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    font-family: Lucida handwriting;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 150px;
+
+}
+label{
+    font-family: Broadway;
+    font-size: 30px;
+    margin-left: 350px;
+    margin-top: 150px;
+}
+span:hover{
+    background-color: rgb(169, 43, 207);
+    border-radius: 8px;
+    padding: 20px;
+}
+#color{
+    width: 200px;
+}
