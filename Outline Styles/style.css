@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(158, 145, 145);
+    font-family: sans-serif;
+    text-align: center;
+}
+h1 span{
+    text-align: center;
+    font-size: 50px;
+    background-color: black;
+    color: rgb(196, 181, 162);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.dotted{
+    border: 2px solid black;
+    outline: 5px dotted black;
+    outline-offset: 5px;
+    padding: 15px 25px 15px 25px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(196, 181, 162);
+    text-align: center;
+    
+}
+.dashed{
+    border: 2px solid black;
+    outline: 5px dashed black;
+    outline-offset: 5px;
+    padding: 15px 25px 15px 25px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(196, 181, 162);
+    text-align: center;
+    
+}
+.solid{
+    border: 2px solid black;
+    outline: 5px solid black;
+    outline-offset: 5px;
+    padding: 15px 25px 15px 25px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(196, 181, 162);
+    text-align: center;
+    
+}
+.double{
+    border: 2px solid black;
+    outline: 5px double black;
+    outline-offset: 5px;
+    padding: 15px 25px 15px 25px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(196, 181, 162);
+    text-align: center;
+    
+}
+.groove{
+    border: 2px solid black;
+    outline: 5px groove black;
+    outline-offset: 5px;
+    padding: 15px 25px 15px 25px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(196, 181, 162);
+    text-align: center;
+    
+
+}
+.ridge{
+    border: 2px solid black;
+    outline: 5px ridge black;
+    outline-offset: 5px;
+    padding: 15px 25px 15px 25px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(196, 181, 162);
+    text-align: center;
+    
+
+}
+.inset{
+    border: 2px solid black;
+    outline: 5px inset black;
+    outline-offset: 5px;
+    padding: 15px 25px 15px 25px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(196, 181, 162);
+    text-align: center;
+    
+}
+.outset{
+    border: 2px solid black;
+    outline: 5px outset black;
+    outline-offset: 5px;
+    padding: 15px 25px 15px 25px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(196, 181, 162);
+    text-align: center;
+    
+
+}
