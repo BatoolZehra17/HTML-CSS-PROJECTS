@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(179, 121, 179);
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+span{
+    font-family: cursive;
+    font-weight: bold;
+}
+.left-div{
+    margin-left: 200px;
+    margin-top: 30px;
+    background-color: white;
+    width: 400px;
+    height: 430px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px black;
+}
+.right-div{
+    margin-left: 700px;
+    margin-top: -450px;
+    background-color: white;
+    width: 400px;
+    height: 430px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px black;
+}
+progress{
+    width: 350px;
+    height: 40px;
+}
+
+.bar1{
+    accent-color: red;
+}
+.bar2{
+    accent-color: rgb(106, 161, 193);
+}
+.bar3{
+    accent-color: green;
+}
+.bar4{
+    accent-color: orange;
+}
+.bar5{
+    accent-color: rgb(241, 255, 192);
+}
+.bar6{
+    accent-color: green;
+}
+.bar7{
+    accent-color: rgb(0, 132, 255);
+}
+.bar8{
+    accent-color: rgb(183, 0, 255);
+}
+.bar9{
+    accent-color: blue;
+}
+.bar10{
+    accent-color: rgb(23, 146, 202);
+}
